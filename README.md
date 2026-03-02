@@ -1,6 +1,8 @@
 # Revenue-Commission-Settlement-Analytics
 Excel-based Revenue, Commission &amp; Settlement Analytics Dashboard with automated financial validation and exception monitoring.
+
 📊 Edviron – Revenue, Commission & Settlement Analytics Dashboard
+
 📌 Project Overview
 
 This project focuses on building a complete Revenue and Settlement Analytics solution for Edviron using Microsoft Excel. The objective was to design a structured financial model to compute partner commissions, ERP revenue, Edviron margins, and settlement exposure while implementing automated validation controls.
