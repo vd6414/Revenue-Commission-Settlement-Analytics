@@ -137,6 +137,6 @@ UI enhancement
 
 👤 Author
 
-Vishal [Your Full Name]
+Vishal Vishwas Desai
 Revenue & Data Analytics Enthusiast
 March 2026
